@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("This is a practice file.")
+print("Let's learn Python together!")
+print("GOOD MORNING")
+print("Have a great day!")
